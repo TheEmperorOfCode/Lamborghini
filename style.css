@@ -156,7 +156,7 @@ section {
 .video-konteiner iframe {
     margin-top: 20px;
     width: 100%;
-    aspect-ratio: 16/9;
+    aspect-ratio: 4/3;
 }
 
 .center-image {
@@ -440,4 +440,5 @@ footer {
 #floatingBtn:hover {
     background-color: white;
     transform: scale(1.1);
+
 }
