@@ -150,6 +150,8 @@ section {
 .video-konteiner {
     text-align: center;
     font-size: 30px;
+    height: 500px;
+    width: 800px;
 }
 
 .video-konteiner iframe {
@@ -439,4 +441,5 @@ footer {
 #floatingBtn:hover {
     background-color: white;
     transform: scale(1.1);
+
 }
